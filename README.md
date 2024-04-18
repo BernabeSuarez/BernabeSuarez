@@ -16,3 +16,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernabesuarez&show_icons=true&locale=en" alt="bernabesuarez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernabesuarez&" alt="bernabesuarez" /></p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=BernabeSuarez&layout=compact)
+
+## Estadísticas de Lenguajes de Programación
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=BernabeSuarez&layout=compact)
+
+
