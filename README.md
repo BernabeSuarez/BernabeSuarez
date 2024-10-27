@@ -4,7 +4,7 @@
 
 <h2 id="-links">🔗 Links</h2>
 <p><a href="https://bernabesuarez.vercel.app/en"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
-<a href="https://www.linkedin.com/in/bernabesuarez2022/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
+<a href="https://www.linkedin.com/in/bernabe-suarez/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
 </p>
 
 <h3 align="left">🛠 Skills</h3>
