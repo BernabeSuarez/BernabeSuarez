@@ -16,4 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernabesuarez&show_icons=true&locale=en&theme=onedark" alt="bernabesuarez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernabesuarez&theme=onedark" alt="bernabesuarez" /></p>
+<h2>🏆 GitHub Trophies</h2>
 <p><img align="center" src="https://github-trophies.vercel.app/?username=bernabesuarez&theme=onedark" alt="bernabesuarez" /></p>
