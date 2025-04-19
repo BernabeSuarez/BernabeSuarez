@@ -1,20 +1,75 @@
-<h1 id="hola-soy-bernabe-">Hola, Soy Bernabe! 👋</h1>
-<h2 id="-sobre-mi">🚀 Sobre Mi</h2>
-<p>Soy un desarrollador web fullstack apasionado por la creacion de aplicaciones web creativas y responsivas. Tengo experiencia trabajando con: React, NextJs, Typescript, Python, Git. Aprendo rapido y siempre busco ampliar mis conocimientos y habilidades. Me adapto para trabajar en equipo, y me entusiasma trabajar con otros para crear aplicaciones increibles</p>
+<h1 align="center">Hola 👋, soy Bernabé</h1>
+<h3 align="center">Desarrollador Web Fullstack | Creatividad, Código y Café ☕</h3>
 
-<h2 id="-links">🔗 Links</h2>
-<p><a href="https://bernabesuarez.vercel.app/en"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio"></a>
-<a href="https://www.linkedin.com/in/bernabe-suarez/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
+---
+
+### 🚀 Sobre mí
+
+Soy un **desarrollador fullstack** con foco en frontend y obsesionado con la experiencia de usuario. Me encanta construir **aplicaciones web interactivas**, **eficientes** y visualmente atractivas. Trabajo principalmente con **React, Next.js y TypeScript**, aunque también tengo experiencia con **Python**, **Firebase**, y herramientas de diseño como **Figma** o **Illustrator**.
+
+- 🔭 Actualmente trabajando en: [Tu Proyecto Actual o algo relevante]
+- 🌱 Aprendiendo más sobre: **AI aplicada al frontend** y **Deno 2.0**
+- ⚡ Fun fact: Hago música folk-rock y me inspiro en lo surrealista para diseñar interfaces.
+- 📫 Contactame: [bernabesuarezdev@gmail.com](mailto:bernabesuarezdev@gmail.com)
+
+---
+
+### 🧠 Skills
+
+#### Tecnologías principales
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Otras herramientas
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 🌐 Conectá conmigo
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bernabesuarez.vercel.app/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernabe-suarez/)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernabesuarez&show_icons=true&theme=onedark" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabesuarez&langs_count=8&layout=compact&theme=onedark" alt="Top langs"/>
+</div>
+
+---
+
+### 🔥 Streak & Trophies
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernabesuarez&theme=onedark" alt="GitHub streak"/>
 </p>
 
-<h3 align="left">🛠 Skills</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Astro" width="40" height="40"/> </a> <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=bernabesuarez&theme=onedark&no-bg=true" alt="GitHub Trophies"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabesuarez&langs_count=8&theme=onedark" alt="bernabesuarez" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bernabesuarez&show_icons=true&locale=en&theme=onedark" alt="bernabesuarez" /></p>
+### 🛠 Proyectos Destacados
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernabesuarez&theme=onedark" alt="bernabesuarez" /></p>
-<h2>🏆 GitHub Trophies</h2>
-<p><img align="center" src="https://github-trophies.vercel.app/?username=bernabesuarez&theme=onedark" alt="bernabesuarez" /></p>
+- 🏆 [Transcripciones App (React + Electron)](https://github.com/bernabesuarez/transcripciones)
+- ⚽ [Campeonato La Canchita (React + Firebase)](https://github.com/bernabesuarez/campeonato-la-canchita)
+- 💬 [Chat Web en Tiempo Real (Socket.io)](https://github.com/bernabesuarez/webchat)
+
+---
+
+### 💡 Tip
+
+> "El mejor código es el que no parece código. Que funcione y sea invisible para el usuario."
+
+---
+
