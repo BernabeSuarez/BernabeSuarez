@@ -5,12 +5,11 @@
 
 ### 🚀 Sobre mí
 
-Soy un **desarrollador fullstack** con foco en frontend y obsesionado con la experiencia de usuario. Me encanta construir **aplicaciones web interactivas**, **eficientes** y visualmente atractivas. Trabajo principalmente con **React, Next.js y TypeScript**, aunque también tengo experiencia con **Python**, **Firebase**, y herramientas de diseño como **Figma** o **Illustrator**.
+Soy un **desarrollador fullstack** con foco en frontend y obsesionado con la experiencia de usuario. Me encanta construir **aplicaciones web interactivas**, **eficientes** y visualmente atractivas. Trabajo principalmente con **React, Next.js, ExpressJS y TypeScript,**, aunque también tengo experiencia con **Python**, **Firebase**, y herramientas de diseño como **Figma** o **Illustrator**.
 
-- 🔭 Actualmente trabajando en: [Tu Proyecto Actual o algo relevante]
-- 🌱 Aprendiendo más sobre: **AI aplicada al frontend** y **Deno 2.0**
-- ⚡ Fun fact: Hago música folk-rock y me inspiro en lo surrealista para diseñar interfaces.
-- 📫 Contactame: [bernabesuarezdev@gmail.com](mailto:bernabesuarezdev@gmail.com)
+- 🔭 Actualmente trabajando en: Vouchers App
+- 🌱 Aprendiendo más sobre: Nest Js
+- 📫 Contactame: [bernabesuarez2022@gmail.com](mailto:bernabesuarez2022@gmail.com)
 
 ---
 
@@ -61,15 +60,8 @@ Soy un **desarrollador fullstack** con foco en frontend y obsesionado con la exp
 
 ### 🛠 Proyectos Destacados
 
-- 🏆 [Transcripciones App (React + Electron)](https://github.com/bernabesuarez/transcripciones)
-- ⚽ [Campeonato La Canchita (React + Firebase)](https://github.com/bernabesuarez/campeonato-la-canchita)
-- 💬 [Chat Web en Tiempo Real (Socket.io)](https://github.com/bernabesuarez/webchat)
+- 🏆 [Portfolio personal (NextJs)]((https://github.com/BernabeSuarez/portfolio-nextjs))
 
----
 
-### 💡 Tip
 
-> "El mejor código es el que no parece código. Que funcione y sea invisible para el usuario."
-
----
 
